@@ -1,0 +1,1008 @@
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: -nan
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: -nan
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: -nan
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: -nan
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                 IBEFORE	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                IDENTITY	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		IBEFORE	BEFORE	INCLUDES	IDENTITY	BEGINS
+
+
+	IBEFORE	0.0	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0	0.0
+	INCLUDES	0.0	0.0	0.0	0.0	0.0
+	IDENTITY	0.0	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+

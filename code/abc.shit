@@ -1,0 +1,95 @@
+&lt;?xml version="1.0" ?&gt;<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>AP_20130322</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" functionInDocument="CREATION_TIME" value="2013-03-22" temporalFunction="false">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>105 U.S. Kids Died From Flu, CDC Says</TITLE>
+
+
+
+<TEXT><s><NG><lex pos="DT">The</lex> <lex pos="NN">flu</lex> <lex pos="NN">season</lex></NG> <VG><lex pos="VBZ">is</lex> <lex pos="VBG">winding</lex></VG> <lex pos="RP">down</lex> <lex pos=",">,</lex> <lex pos="CC">and</lex> <NG><lex pos="PRP">it</lex></NG> <VG><lex pos="VBZ">has</lex> <lex pos="VBN">killed</lex></VG> <NG><lex pos="CD">105</lex> <lex pos="NNS">children</lex></NG> <lex pos="RB">so</lex> <lex pos="RB">far</lex> <lex pos=":">-</lex> <lex pos="IN">about</lex> <NG><lex pos="DT">the</lex> <lex pos="NN">average</lex> <lex pos="NN">toll</lex></NG> <lex pos=".">.</lex> </s> <s><NG><lex pos="DT">The</lex> <lex pos="NN">season</lex></NG> <VG><lex pos="VBD">started</lex></VG> <lex pos="IN">about</lex> <NG><lex pos="DT">a</lex> <lex pos="NN">month</lex></NG> <lex pos="RBR">earlier</lex> <lex pos="IN">than</lex> <lex pos="JJ">usual</lex> <lex pos=",">,</lex> <NG><lex pos="VBG">sparking</lex> <lex pos="NNS">concerns</lex></NG> <NG><lex pos="PRP">it</lex></NG> <VG><lex pos="MD">might</lex> <lex pos="VB">turn</lex></VG> <lex pos="IN">into</lex> <lex pos="DT">the</lex> <lex pos="JJS">worst</lex> <lex pos="IN">in</lex> <NG><lex pos="DT">a</lex> <lex pos="NN">decade</lex></NG> <lex pos=".">.</lex> </s> <s><NG><lex pos="PRP">It</lex></NG> <VG><lex pos="VBD">ended</lex> <lex pos="RP">up</lex> <lex pos="VBG">being</lex></VG> <lex pos="RB">very</lex> <lex pos="RB">hard</lex> <lex pos="IN">on</lex> <lex pos="DT">the</lex> <lex pos="JJ">elderly</lex> <lex pos=",">,</lex> <lex pos="CC">but</lex> <VG><lex pos="VBD">was</lex></VG> <lex pos="RB">moderately</lex> <lex pos="JJ">severe</lex> <lex pos="JJ">overall</lex> <lex pos=",">,</lex> <VG><lex pos="VBG">according</lex></VG> <lex pos="TO">to</lex> <NG><lex pos="DT">the</lex> <lex pos="NNPS">Centers</lex></NG> <lex pos="IN">for</lex> <NG><lex pos="NNP">Disease</lex> <lex pos="NNP">Control</lex></NG> <lex pos="CC">and</lex> <NG><lex pos="NNP">Prevention</lex></NG> <lex pos=".">.</lex> </s> <s><lex pos="CD">Six</lex> <lex pos="IN">of</lex> <NG><lex pos="DT">the</lex> <lex pos="JJ">pediatric</lex> <lex pos="NNS">deaths</lex></NG> <VG><lex pos="VBD">were</lex> <lex pos="VBN">reported</lex></VG> <lex pos="IN">in</lex> <NG><lex pos="DT">the</lex> <lex pos="JJ">last</lex> <lex pos="NN">week</lex></NG> <lex pos=",">,</lex> <lex pos="CC">and</lex> <NG><lex pos="PRP">it</lex></NG> <VG><lex pos="VBZ">'s</lex></VG> <lex pos="JJ">possible</lex> <lex pos="EX">there</lex> <VG><lex pos="MD">will</lex> <lex pos="VB">be</lex></VG> <lex pos="RBR">more</lex> <lex pos=",">,</lex> <VG><lex pos="VBD">said</lex></VG> <NG><lex pos="DT">the</lex> <lex pos="NNP">CDC</lex></NG> <lex pos="POS">'s</lex> <NG><lex pos="NNP">Dr.</lex> <lex pos="NNP">Michael</lex> <lex pos="NNP">Jhung</lex></NG> <VG><lex pos="VBD">said</lex></VG> <NG><lex pos="NNP">Friday</lex></NG> <lex pos=".">.</lex> </s> <s><lex pos="RB">Roughly</lex> <NG><lex pos="CD">100</lex> <lex pos="NNS">children</lex></NG> <VG><lex pos="VB">die</lex></VG> <lex pos="IN">in</lex> <NG><lex pos="DT">an</lex> <lex pos="JJ">average</lex> <lex pos="NN">flu</lex> <lex pos="NN">season</lex></NG> <lex pos=".">.</lex> </s> <s><NG><lex pos="CD">One</lex> <lex pos="NN">exception</lex></NG> <VG><lex pos="VBD">was</lex></VG> <NG><lex pos="DT">the</lex> <lex pos="NNS">swine</lex> <lex pos="NN">flu</lex> <lex pos="NN">pandemic</lex></NG> <lex pos="IN">of</lex> <lex pos="CD">2009-2010</lex> <lex pos=",">,</lex> <lex pos="WRB">when</lex> <NG><lex pos="CD">348</lex> <lex pos="NNS">children</lex></NG> <VG><lex pos="VBD">died</lex></VG> <lex pos=".">.</lex> </s> <s><NG><lex pos="DT">The</lex> <lex pos="NNP">CDC</lex></NG> <VG><lex pos="VBZ">recommends</lex></VG> <lex pos="IN">that</lex> <NG><lex pos="DT">all</lex> <lex pos="NNS">children</lex> <lex pos="NNS">ages</lex> <lex pos="CD">6</lex> <lex pos="NNS">months</lex></NG> <lex pos="CC">and</lex> <lex pos="JJR">older</lex> <VG><lex pos="VB">be</lex> <lex pos="VBN">vaccinated</lex></VG> <lex pos="IN">against</lex> <NG><lex pos="NN">flu</lex></NG> <NG><lex pos="DT">each</lex> <lex pos="NN">season</lex></NG> <lex pos=",">,</lex> <lex pos="IN">though</lex> <lex pos="RB">only</lex> <lex pos="IN">about</lex> <NG><lex pos="NN">half</lex></NG> <VG><lex pos="VB">get</lex></VG> <NG><lex pos="DT">a</lex> <lex pos="NN">flu</lex> <lex pos="NN">shot</lex></NG> <lex pos="CC">or</lex> <NG><lex pos="JJ">nasal</lex> <lex pos="NN">spray</lex></NG> <lex pos=".">.</lex> </s> <s><lex pos="DT">All</lex> <lex pos="CC">but</lex> <lex pos="CD">four</lex> <lex pos="IN">of</lex> <NG><lex pos="DT">the</lex> <lex pos="NNS">children</lex></NG> <lex pos="WP">who</lex> <VG><lex pos="VBD">died</lex> <lex pos="VBD">were</lex></VG> <lex pos="JJ">old</lex> <lex pos="JJ">enough</lex> <VG><lex pos="TO">to</lex> <lex pos="VB">be</lex> <lex pos="VBN">vaccinated</lex></VG> <lex pos=",">,</lex> <lex pos="CC">but</lex> <NG><lex pos="CD">90</lex> <lex pos="NN">percent</lex></NG> <lex pos="IN">of</lex> <NG><lex pos="PRP">them</lex></NG> <VG><lex pos="VBD">did</lex> <lex pos="RB">not</lex> <lex pos="VB">get</lex> <lex pos="VBN">vaccinated</lex></VG> <lex pos=",">,</lex> <NG><lex pos="NNP">CDC</lex> <lex pos="NNS">officials</lex></NG> <VG><lex pos="VBD">said</lex></VG> <lex pos=".">.</lex> </s> <s><NG><lex pos="DT">This</lex> <lex pos="NN">year</lex></NG> <lex pos="POS">'s</lex> <NG><lex pos="NN">vaccine</lex></NG> <VG><lex pos="VBD">was</lex> <lex pos="VBN">considered</lex></VG> <lex pos="JJ">effective</lex> <lex pos="IN">in</lex> <NG><lex pos="NNS">children</lex></NG> <lex pos=",">,</lex> <lex pos="IN">though</lex> <NG><lex pos="PRP">it</lex></NG> <VG><lex pos="VBD">did</lex> <lex pos="RB">n't</lex> <lex pos="VB">work</lex></VG> <lex pos="RB">very</lex> <lex pos="RB">well</lex> <lex pos="IN">in</lex> <NG><lex pos="JJR">older</lex> <lex pos="NNS">people</lex></NG> <lex pos=".">.</lex> </s> <s><lex pos="CC">And</lex> <NG><lex pos="DT">the</lex> <lex pos="JJ">dominant</lex> <lex pos="NN">flu</lex> <lex pos="NN">strain</lex></NG> <lex pos="RB">early</lex> <lex pos="IN">in</lex> <NG><lex pos="DT">the</lex> <lex pos="NN">season</lex></NG> <VG><lex pos="VBD">was</lex></VG> <lex pos="CD">one</lex> <lex pos="WDT">that</lex> <VG><lex pos="VBZ">tends</lex></VG> <VG><lex pos="TO">to</lex> <lex pos="VB">cause</lex></VG> <lex pos="RBR">more</lex> <NG><lex pos="JJ">severe</lex> <lex pos="NN">illness</lex></NG> <lex pos=".">.</lex> </s> <s><NG><lex pos="DT">The</lex> <lex pos="NN">government</lex></NG> <lex pos="RB">only</lex> <VG><lex pos="VBZ">does</lex></VG> <NG><lex pos="DT">a</lex> <lex pos="JJ">national</lex> <lex pos="NN">flu</lex> <lex pos="NN">death</lex> <lex pos="NN">count</lex></NG> <lex pos="IN">for</lex> <NG><lex pos="NNS">children</lex></NG> <lex pos=".">.</lex> </s> <s><lex pos="CC">But</lex> <NG><lex pos="PRP">it</lex></NG> <VG><lex pos="VBZ">does</lex> <lex pos="VB">track</lex></VG> <NG><lex pos="NN">hospitalization</lex> <lex pos="NNS">rates</lex></NG> <lex pos="IN">for</lex> <NG><lex pos="NNS">people</lex></NG> <lex pos="CD">65</lex> <lex pos="CC">and</lex> <lex pos="JJR">older</lex> <lex pos=",">,</lex> <lex pos="CC">and</lex> <NG><lex pos="DT">those</lex> <lex pos="NNS">statistics</lex></NG> <VG><lex pos="VBP">have</lex> <lex pos="VBN">been</lex></VG> <lex pos="JJ">grim</lex> <lex pos=".">.</lex> </s> <s><lex pos="IN">In</lex> <NG><lex pos="DT">that</lex> <lex pos="NN">group</lex></NG> <lex pos=",">,</lex> <lex pos="CD">177</lex> <lex pos="IN">out</lex> <lex pos="IN">of</lex> <lex pos="DT">every</lex> <lex pos="CD">100,000</lex> <VG><lex pos="VBD">were</lex> <lex pos="VBN">hospitalized</lex></VG> <lex pos="IN">with</lex> <NG><lex pos="JJ">flu-related</lex> <lex pos="NN">illness</lex></NG> <lex pos="IN">in</lex> <NG><lex pos="DT">the</lex> <lex pos="JJ">past</lex> <lex pos="JJ">several</lex> <lex pos="NNS">months</lex></NG> <lex pos=".">.</lex> </s> <s><lex pos="DT">That</lex> <VG><lex pos="VBZ">'s</lex></VG> <lex pos="JJR">more</lex> <lex pos="IN">than</lex> <lex pos="CD">1/2</lex> <NG><lex pos="NNS">times</lex></NG> <lex pos="JJR">higher</lex> <lex pos="IN">than</lex> <NG><lex pos="DT">any</lex> <lex pos="JJ">other</lex> <lex pos="JJ">recent</lex> <lex pos="NN">season</lex></NG> <lex pos=".">.</lex> </s> <s><NG><lex pos="DT">This</lex> <lex pos="NN">flu</lex> <lex pos="NN">season</lex></NG> <VG><lex pos="VBD">started</lex></VG> <lex pos="IN">in</lex> <NG><lex pos="JJ">early</lex> <lex pos="NNP">December</lex></NG> <lex pos=",">,</lex> <NG><lex pos="DT">a</lex> <lex pos="NN">month</lex></NG> <lex pos="RBR">earlier</lex> <lex pos="IN">than</lex> <lex pos="JJ">usual</lex> <lex pos=",">,</lex> <lex pos="CC">and</lex> <VG><lex pos="VBD">peaked</lex></VG> <lex pos="IN">by</lex> <NG><lex pos="DT">the</lex> <lex pos="NN">end</lex></NG> <lex pos="IN">of</lex> <NG><lex pos="NN">year</lex></NG> <lex pos=".">.</lex> </s> <s><lex pos="IN">Since</lex> <lex pos="RB">then</lex> <lex pos=",">,</lex> <NG><lex pos="NN">flu</lex> <lex pos="NNS">reports</lex></NG> <VG><lex pos="VBP">have</lex> <lex pos="VBN">been</lex> <lex pos="VBG">dropping</lex></VG> <lex pos="RP">off</lex> <lex pos="IN">throughout</lex> <NG><lex pos="DT">the</lex> <lex pos="NN">country</lex></NG> <lex pos=".">.</lex> </s> <s><lex pos="``">"</lex> <NG><lex pos="PRP">We</lex></NG> <VG><lex pos="VBP">appear</lex></VG> <VG><lex pos="TO">to</lex> <lex pos="VB">be</lex> <lex pos="VBG">getting</lex></VG> <lex pos="JJ">close</lex> <lex pos="TO">to</lex> <NG><lex pos="DT">the</lex> <lex pos="NN">end</lex></NG> <lex pos="IN">of</lex> <NG><lex pos="NN">flu</lex> <lex pos="NN">season</lex></NG> <lex pos=",">,</lex> <lex pos="''">"</lex> <NG><lex pos="NNP">Jhung</lex></NG> <VG><lex pos="VBD">said</lex></VG> <lex pos=".">.</lex> </s> </TEXT>
+
+
+<MAKEINSTANCE eventID="e2" polarity="POS" pos="VERB" eiid="ei2" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e3" polarity="POS" pos="VERB" eiid="ei3" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e4" polarity="POS" pos="VERB" eiid="ei4" tense="PRESPART" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e5" polarity="POS" pos="VERB" eiid="ei5" tense="NONE" aspect="NONE" modality="might"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e6" polarity="POS" pos="VERB" eiid="ei6" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e7" polarity="POS" pos="VERB" eiid="ei7" tense="PRESENT" aspect="PROGRESSIVE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e8" polarity="POS" pos="VERB" eiid="ei8" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e9" polarity="POS" pos="VERB" eiid="ei9" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e10" polarity="POS" pos="VERB" eiid="ei10" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e11" polarity="POS" pos="VERB" eiid="ei11" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e12" polarity="POS" pos="VERB" eiid="ei12" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e13" polarity="POS" pos="VERB" eiid="ei13" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e16" polarity="POS" pos="VERB" eiid="ei16" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e17" polarity="POS" pos="VERB" eiid="ei17" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e19" polarity="NEG" pos="VERB" eiid="ei19" tense="PASTPART" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e20" polarity="POS" pos="VERB" eiid="ei20" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e21" polarity="POS" pos="VERB" eiid="ei21" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e22" polarity="NEG" pos="VERB" eiid="ei22" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e26" polarity="POS" pos="VERB" eiid="ei26" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e27" polarity="POS" pos="VERB" eiid="ei27" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e2001" polarity="POS" pos="VERB" eiid="ei2001" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e28" polarity="POS" pos="VERB" eiid="ei28" tense="PAST" aspect="PERFECTIVE_PROGRESSIVE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e29" polarity="POS" pos="VERB" eiid="ei29" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e30" polarity="POS" pos="VERB" eiid="ei30" tense="PRESENT" aspect="PROGRESSIVE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e31" polarity="POS" pos="VERB" eiid="ei31" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e27" polarity="POS" pos="VERB" eiid="ei1000027" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e1000028" polarity="POS" pos="NOUN" eiid="ei1000028" tense="NONE" aspect="NONE" modality=""></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e2002" polarity="POS" pos="NOUN" eiid="ei2002" tense="NONE" aspect="NONE" modality=""></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e2003" polarity="POS" pos="NOUN" eiid="ei2003" tense="NONE" aspect="NONE" modality=""></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e2004" polarity="POS" pos="NOUN" eiid="ei2004" tense="NONE" aspect="NONE" modality=""></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e1000030" polarity="POS" pos="NOUN" eiid="ei1000030" tense="NONE" aspect="NONE" modality=""></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e1000032" polarity="POS" pos="NOUN" eiid="ei1000032" tense="NONE" aspect="NONE" modality=""></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e1000033" polarity="POS" pos="ADJECTIVE" eiid="ei1000033" tense="PAST" aspect="PERFECTIVE" modality=""></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e1000035" polarity="POS" pos="VERB" eiid="ei1000035" tense="PAST" aspect="NONE" modality=""></MAKEINSTANCE>
+
+<TLINK lid="l3" relatedToTime="t1" relType="IS_INCLUDED" eventInstanceID="ei3"></TLINK>
+<TLINK lid="l4" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei3"></TLINK>
+<TLINK lid="l6" relatedToEventInstance="ei3" relType="SIMULTANEOUS" eventInstanceID="ei4"></TLINK>
+<TLINK lid="l7" relatedToEventInstance="ei3" relType="AFTER" eventInstanceID="ei5"></TLINK>
+<TLINK lid="l8" relatedToTime="t0" relType="IS_INCLUDED" eventInstanceID="ei7"></TLINK>
+<TLINK lid="l9" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei6"></TLINK>
+<TLINK lid="l10" relatedToEventInstance="ei6" relType="BEFORE" eventInstanceID="ei3"></TLINK>
+<TLINK lid="l11" relatedToEventInstance="ei6" relType="AFTER" eventInstanceID="ei7"></TLINK>
+<TLINK lid="l12" relatedToTime="t2" relType="IS_INCLUDED" eventInstanceID="ei8"></TLINK>
+<TLINK lid="l13" relatedToTime="t3" relType="IS_INCLUDED" eventInstanceID="ei10"></TLINK>
+<TLINK lid="l14" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei8"></TLINK>
+<TLINK lid="l15" relatedToTime="t0" relType="IS_INCLUDED" eventInstanceID="ei10"></TLINK>
+<TLINK lid="l16" relatedToTime="t0" relType="IS_INCLUDED" eventInstanceID="ei9"></TLINK>
+<TLINK lid="l17" relatedToEventInstance="ei9" relType="BEFORE" eventInstanceID="ei6"></TLINK>
+<TLINK lid="l18" relatedToEventInstance="ei9" relType="BEFORE" eventInstanceID="ei8"></TLINK>
+<TLINK lid="l19" relatedToEventInstance="ei9" relType="SIMULTANEOUS" eventInstanceID="ei10"></TLINK>
+<TLINK lid="l22" relatedToEventInstance="ei1000032" relType="IS_INCLUDED" eventInstanceID="ei12"></TLINK>
+<TLINK lid="l23" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei12"></TLINK>
+<TLINK lid="l32" relatedToEventInstance="ei20" relType="BEFORE" eventInstanceID="ei16"></TLINK>
+<TLINK lid="l33" relatedToEventInstance="ei20" relType="BEFORE" eventInstanceID="ei17"></TLINK>
+<TLINK lid="l35" relatedToEventInstance="ei20" relType="BEFORE" eventInstanceID="ei19"></TLINK>
+<TLINK lid="l36" relatedToTime="t6" relType="IS_INCLUDED" eventInstanceID="ei21"></TLINK>
+<TLINK lid="l38" relatedToEventInstance="ei22" relType="AFTER" eventInstanceID="ei20"></TLINK>
+<TLINK lid="l46" relatedToTime="t8" relType="IS_INCLUDED" eventInstanceID="ei26"></TLINK>
+<TLINK lid="l47" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei26"></TLINK>
+<TLINK lid="l49" relatedToTime="t9" relType="IS_INCLUDED" eventInstanceID="ei27"></TLINK>
+<TLINK lid="l51" relatedToTime="t11" relType="BEFORE" eventInstanceID="ei1000027"></TLINK>
+<TLINK lid="l52" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei27"></TLINK>
+<TLINK lid="l53" relatedToEventInstance="ei27" relType="INCLUDES" eventInstanceID="ei26"></TLINK>
+<TLINK lid="l54" relatedToEventInstance="ei27" relType="SIMULTANEOUS" eventInstanceID="ei1000027"></TLINK>
+<TLINK lid="l56" relatedToEventInstance="ei28" relType="BEFORE" eventInstanceID="ei27"></TLINK>
+<TLINK lid="l59" relatedToEventInstance="ei31" relType="INCLUDES" eventInstanceID="ei29"></TLINK>
+<TLINK lid="l60" relatedToEventInstance="ei31" relType="INCLUDES" eventInstanceID="ei30"></TLINK>
+<TLINK lid="l61" relatedToEventInstance="ei1000028" relType="IDENTITY" eventInstanceID="ei2002"></TLINK>
+<TLINK lid="l62" relatedToTime="t2001" relType="AFTER" eventInstanceID="ei2002"></TLINK>
+<TLINK lid="l63" relatedToTime="t11" relType="BEFORE" eventInstanceID="ei1000035"></TLINK>
+<TLINK lid="l64" relatedToTime="t4" relType="DURING" eventInstanceID="ei1000032"></TLINK>
+<TLINK lid="l65" relatedToTime="t2000" relType="DURING_INV" eventInstanceID="ei1000032"></TLINK>
+<TLINK lid="l66" relatedToTime="t5" relType="IS_INCLUDED" eventInstanceID="ei2001"></TLINK>
+<TLINK lid="l67" relatedToTime="t11" timeID="t9" relType="BEFORE"></TLINK>
+<TLINK lid="l68" relatedToEventInstance="ei2003" relType="IDENTITY" eventInstanceID="ei2002"></TLINK>
+<TLINK lid="l69" relatedToEventInstance="ei2004" relType="IDENTITY" eventInstanceID="ei2002"></TLINK>
+<TLINK lid="l70" relatedToTime="t1000" relType="IAFTER" eventInstanceID="ei5"></TLINK>
+<TLINK lid="l71" relatedToEventInstance="ei1000028" relType="IS_INCLUDED" eventInstanceID="ei2"></TLINK>
+
+
+</TimeML>

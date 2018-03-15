@@ -1,0 +1,35 @@
+
+ Accuracy on test data: 0.000000
+
+
+
+============================ Results ==========================
+
+
+                                        	Precision	Recall		F-Measure
+
+                                INCLUDES	    -nan	    -nan	    -nan	       0
+                                  BEFORE	    -nan	    -nan	    -nan	       0
+                                  BEGINS	    -nan	    -nan	    -nan	       0
+                                    ENDS	    -nan	    -nan	    -nan	       0
+
+
+===============================================================
+
+
+
+
+
+
+		INCLUDES	BEFORE	BEGINS	ENDS
+
+
+	INCLUDES	0.0	0.0	0.0	0.0
+	BEFORE	0.0	0.0	0.0	0.0
+	BEGINS	0.0	0.0	0.0	0.0
+	ENDS	0.0	0.0	0.0	0.0
+
+
+
+ Execution time (CPU): 0.000000 seconds
+

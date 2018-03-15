@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>ABC19980120.1830.0957</DOCID>
+
+<DCT><TIMEX3 tid="t0" functionInDocument="CREATION_TIME" type="DATE" temporalFunction="false" value="1998-01-20">19980120</TIMEX3></DCT>
+
+<EXTRAINFO>
+ABC19980120.1830.0957 NEWS STORY
+</EXTRAINFO>
+
+<TEXT>                                                                       </TEXT>
+
+<MAKEINSTANCE eventID="e1" polarity="POS" pos="VERB" eiid="ei415" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e86" polarity="POS" pos="NOUN" eiid="ei416" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e2" polarity="POS" pos="VERB" eiid="ei417" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e4" polarity="POS" pos="VERB" eiid="ei418" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e87" polarity="POS" pos="VERB" eiid="ei419" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e7" polarity="POS" pos="VERB" eiid="ei420" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e8" polarity="POS" pos="VERB" eiid="ei421" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e9" polarity="POS" pos="VERB" eiid="ei422" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e11" polarity="POS" pos="VERB" eiid="ei423" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e15" polarity="POS" pos="VERB" eiid="ei424" tense="FUTURE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e16" polarity="POS" pos="VERB" eiid="ei425" tense="FUTURE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e18" polarity="POS" pos="VERB" eiid="ei426" tense="FUTURE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e22" polarity="POS" pos="VERB" eiid="ei429" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e24" polarity="POS" pos="VERB" eiid="ei430" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e26" polarity="POS" pos="VERB" eiid="ei431" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e99" polarity="NEG" pos="VERB" eiid="ei432" tense="NONE" aspect="NONE" modality="would"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e240" polarity="POS" pos="NOUN" eiid="ei434" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e30" polarity="POS" pos="VERB" eiid="ei435" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e32" polarity="POS" pos="VERB" eiid="ei437" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e100" polarity="POS" pos="ADJECTIVE" eiid="ei438" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e35" polarity="POS" pos="VERB" eiid="ei439" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e38" polarity="POS" pos="VERB" eiid="ei441" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e103" polarity="POS" pos="VERB" eiid="ei442" tense="PASTPART" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e42" polarity="POS" pos="NOUN" eiid="ei443" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e44" polarity="POS" pos="VERB" eiid="ei444" tense="PASTPART" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e45" polarity="POS" pos="VERB" eiid="ei445" tense="NONE" aspect="NONE" modality="can"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e48" polarity="POS" pos="NOUN" eiid="ei447" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e50" polarity="POS" pos="VERB" eiid="ei448" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e51" polarity="POS" pos="VERB" eiid="ei449" tense="PRESPART" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e52" polarity="POS" pos="NOUN" eiid="ei450" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e53" polarity="POS" pos="VERB" eiid="ei451" tense="FUTURE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e56" polarity="POS" pos="VERB" eiid="ei452" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e57" polarity="POS" pos="VERB" eiid="ei453" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e59" polarity="POS" pos="VERB" eiid="ei454" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e60" polarity="POS" pos="NOUN" eiid="ei455" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e378" polarity="POS" pos="VERB" eiid="ei456" tense="FUTURE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e63" polarity="POS" pos="NOUN" eiid="ei458" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e64" polarity="POS" pos="VERB" eiid="ei459" tense="FUTURE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e66" polarity="POS" pos="VERB" eiid="ei460" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e67" polarity="POS" pos="NOUN" eiid="ei461" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+<MAKEINSTANCE eventID="e112" polarity="POS" pos="ADJECTIVE" eiid="ei462" tense="NONE" aspect="NONE" modality="would"></MAKEINSTANCE>
+<TLINK lid="l65" relatedToEventInstance="ei454" relType="BEFORE" eventInstanceID="ei455"></TLINK>
+<TLINK lid="l1" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei415"></TLINK>
+<TLINK lid="l2" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei417"></TLINK>
+<TLINK lid="l3" relatedToTime="t0" relType="INCLUDES" eventInstanceID="ei419"></TLINK>
+<TLINK lid="l4" relatedToEventInstance="ei415" relType="INCLUDES" eventInstanceID="ei419"></TLINK>
+<TLINK lid="l5" relatedToEventInstance="ei417" relType="INCLUDES" eventInstanceID="ei419"></TLINK>
+<TLINK lid="l6" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei420"></TLINK>
+<TLINK lid="l7" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei421"></TLINK>
+<TLINK lid="l8" relatedToEventInstance="ei419" relType="IS_INCLUDED" eventInstanceID="ei420"></TLINK>
+<TLINK lid="l9" relatedToEventInstance="ei419" relType="IS_INCLUDED" eventInstanceID="ei421"></TLINK>
+<TLINK lid="l10" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei422"></TLINK>
+<TLINK lid="l11" relatedToTime="t0" relType="AFTER" eventInstanceID="ei423"></TLINK>
+<TLINK lid="l12" relatedToEventInstance="ei423" relType="AFTER" eventInstanceID="ei424"></TLINK>
+<TLINK lid="l13" relatedToEventInstance="ei424" relType="SIMULTANEOUS" eventInstanceID="ei425"></TLINK>
+<TLINK lid="l14" relatedToEventInstance="ei423" relType="AFTER" eventInstanceID="ei426"></TLINK>
+<TLINK lid="l16" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei429"></TLINK>
+<TLINK lid="l17" relatedToTime="t94" relType="DURING" eventInstanceID="ei431"></TLINK>
+<TLINK lid="l18" relatedToEventInstance="ei435" relType="DURING" eventInstanceID="ei434"></TLINK>
+<TLINK lid="l19" relatedToEventInstance="ei422" relType="IDENTITY" eventInstanceID="ei437"></TLINK>
+<TLINK lid="l20" relatedToEventInstance="ei437" relType="AFTER" eventInstanceID="ei438"></TLINK>
+<TLINK lid="l21" relatedToEventInstance="ei439" relType="BEFORE" eventInstanceID="ei441"></TLINK>
+<TLINK lid="l22" relatedToEventInstance="ei443" relType="BEFORE" eventInstanceID="ei442"></TLINK>
+<TLINK lid="l23" relatedToEventInstance="ei437" relType="AFTER" eventInstanceID="ei443"></TLINK>
+<TLINK lid="l24" relatedToEventInstance="ei423" relType="INCLUDES" eventInstanceID="ei443"></TLINK>
+<TLINK lid="l25" relatedToEventInstance="ei444" relType="IS_INCLUDED" eventInstanceID="ei445"></TLINK>
+<TLINK lid="l27" relatedToEventInstance="ei448" relType="BEFORE" eventInstanceID="ei447"></TLINK>
+<TLINK lid="l28" relatedToTime="t0" relType="INCLUDES" eventInstanceID="ei449"></TLINK>
+<TLINK lid="l29" relatedToEventInstance="ei443" relType="BEFORE" eventInstanceID="ei449"></TLINK>
+<TLINK lid="l30" relatedToEventInstance="ei451" relType="BEFORE" eventInstanceID="ei449"></TLINK>
+<TLINK lid="l31" relatedToEventInstance="ei443" relType="AFTER" eventInstanceID="ei451"></TLINK>
+<TLINK lid="l32" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei452"></TLINK>
+<TLINK lid="l33" relatedToTime="t0" relType="AFTER" eventInstanceID="ei456"></TLINK>
+<TLINK lid="l34" relatedToEventInstance="ei458" relType="AFTER" eventInstanceID="ei459"></TLINK>
+<TLINK lid="l35" relatedToEventInstance="ei460" relType="AFTER" eventInstanceID="ei462"></TLINK>
+<TLINK lid="l36" relatedToEventInstance="ei461" relType="AFTER" eventInstanceID="ei462"></TLINK>
+<SLINK lid="l59" relType="CONDITIONAL" eventInstanceID="ei459" subordinatedEventInstance="ei462"></SLINK>
+<SLINK lid="l58" relType="MODAL" eventInstanceID="ei447" subordinatedEventInstance="ei448"></SLINK>
+<SLINK lid="l37" relType="MODAL" eventInstanceID="ei415" subordinatedEventInstance="ei416"></SLINK>
+<SLINK lid="l38" relType="MODAL" eventInstanceID="ei417" subordinatedEventInstance="ei418"></SLINK>
+<SLINK lid="l39" relType="MODAL" eventInstanceID="ei422" subordinatedEventInstance="ei423"></SLINK>
+<SLINK lid="l40" relType="MODAL" eventInstanceID="ei429" subordinatedEventInstance="ei430"></SLINK>
+<SLINK lid="l41" relType="EVIDENTIAL" eventInstanceID="ei431" subordinatedEventInstance="ei432"></SLINK>
+<SLINK lid="l43" relType="MODAL" eventInstanceID="ei438" subordinatedEventInstance="ei439"></SLINK>
+<SLINK lid="l44" relType="EVIDENTIAL" eventInstanceID="ei442" subordinatedEventInstance="ei445"></SLINK>
+<SLINK lid="l45" relType="MODAL" eventInstanceID="ei449" subordinatedEventInstance="ei450"></SLINK>
+<SLINK lid="l46" relType="EVIDENTIAL" eventInstanceID="ei452" subordinatedEventInstance="ei453"></SLINK>
+<SLINK lid="l47" relType="MODAL" eventInstanceID="ei453" subordinatedEventInstance="ei454"></SLINK>
+<SLINK lid="l49" relType="MODAL" eventInstanceID="ei459" subordinatedEventInstance="ei460"></SLINK>
+<ALINK lid="l53" relatedToEventInstance="ei434" relType="CONTINUES" eventInstanceID="ei435"></ALINK>
+<ALINK lid="l52" relatedToEventInstance="ei455" relType="TERMINATES" eventInstanceID="ei454"></ALINK>
+
+</TimeML>

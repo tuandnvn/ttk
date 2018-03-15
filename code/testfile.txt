@@ -1,0 +1,984 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+	<DOCNO>ABC19980108.1830.0711</DOCNO>
+
+	<DCT>
+		<TIMEX3 tid="t0" type="DATE" functionInDocument="CREATION_TIME" value="1998-01-08" temporalFunction="false">19980108</TIMEX3>
+	</DCT>
+
+	<EXTRAINFO>
+		ABC19980108.1830.0711 NEWS STORY
+	</EXTRAINFO>
+
+	<TEXT>
+		<s>
+			<lex pos="IN">On</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="JJ">other</lex>
+				<lex pos="NN">hand</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="PP">it</lex>
+			</NG>
+			<lex pos="POS">'</lex>
+			<NG>
+				<lex pos="NNS">s</lex>
+			</NG>
+			<VG>
+				<lex pos="VBG"><EVENT eid="e1" class="OCCURRENCE">turning</EVENT></lex>
+			</VG>
+			<lex pos="RP">out</lex>
+			<VG>
+				<lex pos="TO">to</lex>
+				<lex pos="VB">be</lex>
+			</VG>
+			<lex pos="DT">another</lex>
+			<lex pos="RB">very</lex>
+			<lex pos="JJ">bad</lex>
+			<lex pos="JJ">financial</lex>
+			<NG>
+				<TIMEX3 tid="t83" functionInDocument="NONE" type="DURATION" temporalFunction="false" value="P1W"><lex pos="NN">week</lex></TIMEX3>
+			</NG>
+			<lex pos="IN">for</lex>
+			<NG>
+				<lex pos="NNP">Asia</lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="DT">The</lex>
+			<lex pos="JJ">financial</lex>
+			<NG>
+				<lex pos="NN"><EVENT eid="e3" class="OCCURRENCE">assistance</EVENT></lex>
+			</NG>
+			<lex pos="IN">from</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="NNP">World</lex>
+				<lex pos="NNP">Bank</lex>
+			</NG>
+			<lex pos="CC">and</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="NNP">International</lex>
+				<lex pos="NNP">Monetary</lex>
+				<lex pos="NNP">Fund</lex>
+			</NG>
+			<VG>
+				<lex pos="VBP">are</lex>
+			</VG>
+			<lex pos="RB">not</lex>
+			<VG>
+				<lex pos="VBG"><EVENT eid="e4" class="OCCURRENCE">helping</EVENT></lex>
+			</VG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="IN">In</lex>
+			<NG>
+				<TIMEX3 functionInDocument="NONE" anchorTimeID="t0" value="P1D" tid="t85" type="DURATION" temporalFunction="true"><lex pos="DT">the</lex>
+				<lex pos="JJ">last</lex>
+				<lex pos="CD">twenty</lex>
+				<lex pos="CD">four</lex>
+				<lex pos="NNS">hours</lex></TIMEX3>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="NN">value</lex>
+			</NG>
+			<lex pos="IN">of</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="JJ">Indonesian</lex>
+				<lex pos="NN">stock</lex>
+				<lex pos="NN">market</lex>
+			</NG>
+			<VG>
+				<lex pos="VBZ">has</lex>
+			</VG>
+			<VG>
+				<lex pos="VBN"><EVENT eid="e7" class="OCCURRENCE">fallen</EVENT></lex>
+			</VG>
+			<lex pos="IN">by</lex>
+			<NG>
+				<lex pos="NN">twelve</lex>
+				<lex pos="NN">percent</lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="DT">The</lex>
+				<lex pos="JJ">Indonesian</lex>
+				<lex pos="NN">currency</lex>
+			</NG>
+			<VG>
+				<lex pos="VBZ">has</lex>
+			</VG>
+			<VG>
+				<lex pos="VBN"><EVENT eid="e9" class="OCCURRENCE">lost</EVENT></lex>
+			</VG>
+			<lex pos="CD">twenty</lex>
+			<NG>
+				<lex pos="CD">six</lex>
+				<lex pos="NN">percent</lex>
+			</NG>
+			<lex pos="IN">of</lex>
+			<lex pos="PP$">its</lex>
+			<NG>
+				<lex pos="NN">value</lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="IN">In</lex>
+			<NG>
+				<lex pos="NNP">Singapore</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="NNS">stocks</lex>
+			</NG>
+			<VG>
+				<lex pos="VBD"><EVENT eid="e10" class="OCCURRENCE">hit</EVENT></lex>
+			</VG>
+			<lex pos="DT">a</lex>
+			<NG>
+				<TIMEX3 tid="t86" functionInDocument="NONE" type="DURATION" temporalFunction="false" value="P5Y"><lex pos="CD">five</lex>
+				<lex pos="NN">year</lex></TIMEX3>
+			</NG>
+			<lex pos="JJ">low</lex>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="IN">In</lex>
+			<lex pos="DT">the</lex>
+			<lex pos="NPS">Philippines</lex>
+			<lex pos=",">,</lex>
+			<lex pos="DT">a</lex>
+			<NG>
+				<TIMEX3 tid="t87" functionInDocument="NONE" type="DURATION" temporalFunction="false" value="P4Y"><lex pos="CD">four</lex>
+				<lex pos="NN">year</lex></TIMEX3>
+			</NG>
+			<lex pos="JJ">low</lex>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="CC">And</lex>
+			<lex pos="IN">in</lex>
+			<NG>
+				<lex pos="NNP">Hong</lex>
+				<lex pos="NNP">Kong</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="DT">a</lex>
+				<lex pos="CD">three</lex>
+				<lex pos="NN">percent</lex>
+			</NG>
+			<NG>
+				<lex pos="NN"><EVENT eid="e147" class="OCCURRENCE">drop</EVENT></lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="JJR">More</lex>
+				<lex pos="NNS">problems</lex>
+			</NG>
+			<lex pos="IN">in</lex>
+			<NG>
+				<lex pos="NNP">Hong</lex>
+				<lex pos="NNP">Kong</lex>
+			</NG>
+			<lex pos="IN">for</lex>
+			<NG>
+				<lex pos="DT">a</lex>
+				<lex pos="NN">place</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<lex pos="IN">for</lex>
+			<NG>
+				<lex pos="DT">an</lex>
+				<lex pos="NN">economy</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<lex pos="WDT">that</lex>
+			<NG>
+				<lex pos="JJ">many</lex>
+				<lex pos="NNS">experts</lex>
+			</NG>
+			<VG>
+				<lex pos="VBD"><EVENT eid="e11" class="I_STATE">thought</EVENT></lex>
+			</VG>
+			<lex pos="VBD">was</lex>
+			<lex pos="RB">once</lex>
+			<lex pos="JJ"><EVENT eid="e376" class="STATE">invincible</EVENT></lex>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="RB">Here</lex>
+			<lex pos="''">'</lex>
+			<VG>
+				<lex pos="VBZ">s</lex>
+			</VG>
+			<NG>
+				<lex pos="NNP">ABC</lex>
+			</NG>
+			<lex pos="POS">'</lex>
+			<NG>
+				<lex pos="NN">s</lex>
+				<lex pos="NNP">Jim</lex>
+				<lex pos="NNP">Laurie</lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="RB">Not</lex>
+			<lex pos="IN">that</lex>
+			<lex pos="RB">long</lex>
+			<lex pos="RB">ago</lex>
+			<lex pos=",">,</lex>
+			<lex pos="IN">before</lex>
+			<lex pos="DT">the</lex>
+			<lex pos="JJ">Chinese</lex>
+			<NG>
+				<lex pos="NN"><EVENT eid="e12" class="OCCURRENCE">takeover</EVENT></lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="NN">news</lex>
+			</NG>
+			<lex pos="IN">about</lex>
+			<NG>
+				<lex pos="JJ">real</lex>
+				<lex pos="NN">estate</lex>
+			</NG>
+			<lex pos="RB">here</lex>
+			<VG>
+				<lex pos="VBD">was</lex>
+			</VG>
+			<lex pos="IN">that</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="NN">sky</lex>
+			</NG>
+			<VG>
+				<lex pos="VBD">was</lex>
+			</VG>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="NN">limit</lex>
+			</NG>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="JJS">highest</lex>
+				<lex pos="NNS">prices</lex>
+			</NG>
+			<lex pos="IN">in</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="NN">world</lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="RB">So</lex>
+			<lex pos="WRB">when</lex>
+			<NG>
+				<lex pos="NNP">Wong</lex>
+				<lex pos="NNP">Kwan</lex>
+			</NG>
+			<VG>
+				<lex pos="VBD"><EVENT eid="e16" class="OCCURRENCE">spent</EVENT></lex>
+			</VG>
+			<lex pos="CD">seventy</lex>
+			<NG>
+				<lex pos="CD">million</lex>
+				<lex pos="NNS">dollars</lex>
+			</NG>
+			<lex pos="IN">for</lex>
+			<NG>
+				<lex pos="DT">this</lex>
+				<lex pos="NN">house</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="PP">he</lex>
+			</NG>
+			<VG>
+				<lex pos="VBD"><EVENT eid="e17" class="I_STATE">thought</EVENT></lex>
+			</VG>
+			<lex pos="PP">it</lex>
+			<VG>
+				<lex pos="VBD">was</lex>
+			</VG>
+			<lex pos="DT">a</lex>
+			<lex pos="JJ">great</lex>
+			<NG>
+				<lex pos="NN"><EVENT eid="e18" class="OCCURRENCE">deal</EVENT></lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="PP">He</lex>
+			</NG>
+			<VG>
+				<lex pos="VBD"><EVENT eid="e19" class="OCCURRENCE">sold</EVENT></lex>
+			</VG>
+			<lex pos="DT">the</lex>
+			<NG>
+				<lex pos="NN">property</lex>
+			</NG>
+			<lex pos="TO">to</lex>
+			<NG>
+				<lex pos="CD">five</lex>
+				<lex pos="NNS">buyers</lex>
+			</NG>
+			<lex pos="CC">and</lex>
+			<VG>
+				<lex pos="VBD"><EVENT eid="e20" class="REPORTING">said</EVENT></lex>
+			</VG>
+			<lex pos="PP">he</lex>
+			<lex pos="''">'</lex>
+			<lex pos="SYM">d</lex>
+			<VG>
+				<lex pos="VB"><EVENT eid="e21" class="OCCURRENCE">double</EVENT></lex>
+			</VG>
+			<lex pos="PP$">his</lex>
+			<NG>
+				<lex pos="NN">money</lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="IN">In</lex>
+			<NG>
+				<lex pos="NNP">Hong</lex>
+				<lex pos="NNP">Kong</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<VG>
+				<lex pos="VBZ">is</lex>
+				<lex pos="RB">always</lex>
+				<lex pos="VBZ">belongs</lex>
+			</VG>
+			<lex pos="TO">to</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="NN">seller</lex>
+			</NG>
+			<lex pos="POS">'</lex>
+			<NG>
+				<lex pos="NN">s</lex>
+				<lex pos="NN">market</lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<TIMEX3 functionInDocument="NONE" anchorTimeID="t0" value="PRESENT_REF" tid="t196" type="DATE" temporalFunction="true"><lex pos="RB">Now</lex></TIMEX3>
+			<lex pos="IN">with</lex>
+			<lex pos="JJ">new</lex>
+			<NG>
+				<lex pos="NN"><EVENT eid="e26" class="OCCURRENCE">construction</EVENT></lex>
+			</NG>
+			<lex pos="IN">under</lex>
+			<NG>
+				<lex pos="NN">way</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<lex pos="CD">three</lex>
+			<lex pos="IN">of</lex>
+			<lex pos="PP$">his</lex>
+			<NG>
+				<lex pos="NNS">buyers</lex>
+			</NG>
+			<VG>
+				<lex pos="VBP">have</lex>
+			</VG>
+			<VG>
+				<lex pos="VBN"><EVENT eid="e28" class="OCCURRENCE">backed</EVENT></lex>
+			</VG>
+			<lex pos="RP">out</lex>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="CC">And</lex>
+			<NG>
+				<lex pos="NNP">Wong</lex>
+				<lex pos="NNP">Kwan</lex>
+			</NG>
+			<VG>
+				<lex pos="MD">will</lex>
+				<lex pos="VB">be</lex>
+			</VG>
+			<lex pos="JJ">lucky</lex>
+			<lex pos="TO">to</lex>
+			<VG>
+				<lex pos="VB"><EVENT eid="e30" class="OCCURRENCE">break</EVENT></lex>
+			</VG>
+			<lex pos="RB">even</lex>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="DT">All</lex>
+			<lex pos="IN">across</lex>
+			<NG>
+				<lex pos="NNP">Hong</lex>
+				<lex pos="NNP">Kong</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="NN">property</lex>
+				<lex pos="NN">market</lex>
+			</NG>
+			<VG>
+				<lex pos="VBZ">has</lex>
+			</VG>
+			<VG>
+				<lex pos="VBN"><EVENT eid="e32" class="OCCURRENCE">crashed</EVENT></lex>
+			</VG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="NNP">Pamela</lex>
+				<lex pos="NNP">Pak</lex>
+			</NG>
+			<VG>
+				<lex pos="VBZ"><EVENT eid="e33" class="OCCURRENCE">owns</EVENT></lex>
+			</VG>
+			<lex pos="CD">eight</lex>
+			<NG>
+				<lex pos="NNS">condominiums</lex>
+			</NG>
+			<lex pos="RB">here</lex>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="NNP">Pak</lex>
+				<lex pos="NN">can</lex>
+			</NG>
+			<lex pos="POS">'</lex>
+			<NG>
+				<lex pos="NN">t</lex>
+			</NG>
+			<VG>
+				<lex pos="VB"><EVENT eid="e34" class="OCCURRENCE">find</EVENT></lex>
+			</VG>
+			<lex pos="NNS">buyers</lex>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="PP">She</lex>
+			</NG>
+			<VG>
+				<lex pos="VBZ"><EVENT eid="e37" class="REPORTING">estimates</EVENT></lex>
+			</VG>
+			<lex pos="PP$">her</lex>
+			<NG>
+				<lex pos="NNS">properties</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<lex pos="JJ"><EVENT eid="e88" class="STATE">worth</EVENT></lex>
+			<lex pos="DT">a</lex>
+			<NG>
+				<lex pos="CD">hundred</lex>
+				<lex pos="CD">thirty</lex>
+				<lex pos="CD">million</lex>
+				<lex pos="NNS">dollars</lex>
+			</NG>
+			<lex pos="IN">in</lex>
+			<NG>
+				<TIMEX3 functionInDocument="NONE" anchorTimeID="t0" value="1997-10" tid="t89" type="DATE" temporalFunction="true"><lex pos="NNP">October</lex></TIMEX3>
+			</NG>
+			<lex pos=",">,</lex>
+			<VG>
+				<lex pos="VBP">are</lex>
+			</VG>
+			<lex pos="JJ"><EVENT eid="e91" class="STATE">worth</EVENT></lex>
+			<lex pos="RB">only</lex>
+			<lex pos="JJ">half</lex>
+			<lex pos="IN">that</lex>
+			<TIMEX3 functionInDocument="NONE" anchorTimeID="t0" value="PRESENT_REF" tid="t90" type="DATE" temporalFunction="true"><lex pos="RB">now</lex></TIMEX3>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="PP">They</lex>
+			</NG>
+			<VG>
+				<lex pos="VBP"><EVENT eid="e39" class="I_STATE">believe</EVENT></lex>
+			</VG>
+			<lex pos="NN">ah</lex>
+			<NG>
+				<lex pos="PP">it</lex>
+			</NG>
+			<VG>
+				<lex pos="MD">will</lex>
+				<lex pos="VB">be</lex>
+			</VG>
+			<lex pos="RB">always</lex>
+			<lex pos="RB">up</lex>
+			<VG>
+				<lex pos="VBG"><EVENT eid="e40" class="OCCURRENCE">going</EVENT></lex>
+			</VG>
+			<lex pos="RP">up</lex>
+			<lex pos="CC">and</lex>
+			<lex pos="RP">up</lex>
+			<NG>
+				<lex pos="NN">ah</lex>
+			</NG>
+			<lex pos="RB">forever</lex>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="NN">Nobody</lex>
+			</NG>
+			<VG>
+				<lex pos="VBP"><EVENT eid="e41" class="I_STATE">believe</EVENT></lex>
+			</VG>
+			<lex pos="DT">this</lex>
+			<lex pos="RB">any</lex>
+			<lex pos="JJR">more</lex>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="IN">Of</lex>
+			<lex pos="DT">all</lex>
+			<lex pos="IN">of</lex>
+			<NG>
+				<lex pos="NNP">Asia</lex>
+			</NG>
+			<lex pos="POS">'</lex>
+			<NG>
+				<lex pos="NN">s</lex>
+				<lex pos="NNS">economies</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="NNP">Hong</lex>
+				<lex pos="NNP">Kong</lex>
+			</NG>
+			<VG>
+				<lex pos="VBZ">is</lex>
+			</VG>
+			<lex pos="DT">the</lex>
+			<lex pos="RBS">most</lex>
+			<lex pos="JJ">robust</lex>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="CC">But</lex>
+			<lex pos="IN">in</lex>
+			<NG>
+				<TIMEX3 functionInDocument="NONE" anchorTimeID="t0" value="P3M" tid="t98" type="DURATION" temporalFunction="true"><lex pos="DT">the</lex>
+				<lex pos="JJ">past</lex>
+				<lex pos="CD">three</lex>
+				<lex pos="NNS">months</lex></TIMEX3>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="NNS">stocks</lex>
+			</NG>
+			<VG>
+				<lex pos="VBP">have</lex>
+			</VG>
+			<VG>
+				<lex pos="VBN"><EVENT eid="e42" class="OCCURRENCE">plunged</EVENT></lex>
+			</VG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="NN">interest</lex>
+				<lex pos="NNS">rates</lex>
+			</NG>
+			<VG>
+				<lex pos="VBP">have</lex>
+			</VG>
+			<VG>
+				<lex pos="VBN"><EVENT eid="e43" class="OCCURRENCE">soared</EVENT></lex>
+			</VG>
+			<lex pos="CC">and</lex>
+			<lex pos="DT">the</lex>
+			<NG>
+				<lex pos="NN"><EVENT eid="e44" class="OCCURRENCE">downturn</EVENT></lex>
+			</NG>
+			<lex pos="RB">all</lex>
+			<lex pos="IN">across</lex>
+			<NG>
+				<lex pos="NNP">Asia</lex>
+			</NG>
+			<VG>
+				<lex pos="VBZ">means</lex>
+			</VG>
+			<lex pos="IN">that</lex>
+			<NG>
+				<lex pos="NNS">people</lex>
+			</NG>
+			<VG>
+				<lex pos="VBP">are</lex>
+			</VG>
+			<lex pos="RB">not</lex>
+			<VG>
+				<lex pos="VBG"><EVENT eid="e46" class="OCCURRENCE">spending</EVENT></lex>
+			</VG>
+			<lex pos="RB">here</lex>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="NNS">Hotels</lex>
+			</NG>
+			<VG>
+				<lex pos="VBP">are</lex>
+			</VG>
+			<lex pos="RB">only</lex>
+			<NG>
+				<lex pos="CD">thirty</lex>
+				<lex pos="NN">percent</lex>
+			</NG>
+			<lex pos="JJ">full</lex>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="PP">You</lex>
+			</NG>
+			<lex pos="MD">can</lex>
+			<VG>
+				<lex pos="VB"><EVENT eid="e48" class="OCCURRENCE">get</EVENT></lex>
+			</VG>
+			<lex pos="CD">seventy</lex>
+			<NG>
+				<lex pos="NN">percent</lex>
+			</NG>
+			<NG>
+				<lex pos="NNS"><EVENT eid="e50" class="OCCURRENCE">discounts</EVENT></lex>
+			</NG>
+			<lex pos="IN">at</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="NN">shopping</lex>
+				<lex pos="NNS">malls</lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="CD">Three</lex>
+				<lex pos="CD">thousand</lex>
+				<lex pos="NN">dollar</lex>
+			</NG>
+			<VG>
+				<lex pos="VBZ">pearls</lex>
+			</VG>
+			<lex pos="IN">for</lex>
+			<NG>
+				<lex pos="CD">eight</lex>
+				<lex pos="CD">hundred</lex>
+				<lex pos="NNS">dollars</lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="DT">A</lex>
+				<lex pos="CD">two</lex>
+				<lex pos="CD">hundred</lex>
+				<lex pos="NN">dollar</lex>
+				<lex pos="NN">wool</lex>
+				<lex pos="NN">jacket</lex>
+			</NG>
+			<lex pos="IN">for</lex>
+			<NG>
+				<lex pos="CD">fifty</lex>
+				<lex pos="NNS">dollars</lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="RB">Still</lex>
+			<lex pos=",">,</lex>
+			<lex pos="EX">there</lex>
+			<VG>
+				<lex pos="VBP">are</lex>
+			</VG>
+			<NG>
+				<lex pos="JJ">few</lex>
+				<lex pos="NNS">buyers</lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="CC">And</lex>
+			<lex pos="IN">at</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="JJ">big</lex>
+				<lex pos="NN">brokerage</lex>
+				<lex pos="NNS">houses</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<lex pos="IN">after</lex>
+			<NG>
+				<TIMEX3 tid="t99" functionInDocument="NONE" type="DURATION" temporalFunction="false" value="P10Y"><lex pos="CD">ten</lex>
+				<lex pos="NNS">years</lex></TIMEX3>
+			</NG>
+			<lex pos="IN">of</lex>
+			<NG>
+				<lex pos="NN"><EVENT eid="e52" class="OCCURRENCE">boom</EVENT></lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="PP">they</lex>
+			</NG>
+			<lex pos="POS">'</lex>
+			<NG>
+				<lex pos="NN">re</lex>
+			</NG>
+			<VG>
+				<lex pos="VBG"><EVENT eid="e53" class="OCCURRENCE">talking</EVENT></lex>
+			</VG>
+			<lex pos="IN">about</lex>
+			<NG>
+				<lex pos="NNS"><EVENT eid="e54" class="OCCURRENCE">layoffs</EVENT></lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="PP">I</lex>
+			</NG>
+			<VG>
+				<lex pos="VBP"><EVENT eid="e55" class="I_STATE">think</EVENT></lex>
+			</VG>
+			<lex pos="IN">that</lex>
+			<NG>
+				<lex pos="DT">the</lex>
+				<lex pos="NN">mood</lex>
+			</NG>
+			<VG>
+				<lex pos="VBZ">is</lex>
+			</VG>
+			<lex pos="RB">fairly</lex>
+			<lex pos="JJ"><EVENT eid="e374" class="STATE">gloomy</EVENT></lex>
+			<lex pos=",">,</lex>
+			<lex pos="CC">and</lex>
+			<NG>
+				<lex pos="PP">I</lex>
+			</NG>
+			<VG>
+				<lex pos="VBP"><EVENT eid="e56" class="I_STATE">think</EVENT></lex>
+			</VG>
+			<lex pos="PP">it</lex>
+			<lex pos="''">'</lex>
+			<NG>
+				<lex pos="NNS">s</lex>
+			</NG>
+			<lex pos="RB">not</lex>
+			<VG>
+				<lex pos="VBG">going</lex>
+			</VG>
+			<lex pos="TO">to</lex>
+			<VG>
+				<lex pos="VB"><EVENT eid="e59" class="OCCURRENCE">change</EVENT></lex>
+			</VG>
+			<lex pos="IN">for</lex>
+			<NG>
+				<TIMEX3 functionInDocument="NONE" value="P2Y" tid="t100" type="DURATION" temporalFunction="false" mod="APPROX"><lex pos="DT">a</lex>
+				<lex pos="NN">couple</lex>
+			</NG>
+			<lex pos="IN">of</lex>
+			<NG>
+				<lex pos="NNS">years</lex></TIMEX3>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="RB">So</lex>
+			<lex pos="IN">for</lex>
+			<NG>
+				<lex pos="NNP">Hong</lex>
+				<lex pos="NNP">Kong</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="PP">it</lex>
+			</NG>
+			<lex pos="POS">'</lex>
+			<NG>
+				<lex pos="NN">s</lex>
+				<lex pos="NN">time</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<lex pos="IN">as</lex>
+			<NG>
+				<lex pos="NN">investment</lex>
+				<lex pos="NNS">bankers</lex>
+			</NG>
+			<VG>
+				<lex pos="VBP">like</lex>
+			</VG>
+			<VG>
+				<lex pos="TO">to</lex>
+				<lex pos="VB">say</lex>
+			</VG>
+			<lex pos=",">,</lex>
+			<lex pos="TO">to</lex>
+			<VG>
+				<lex pos="VB"><EVENT eid="e64" class="OCCURRENCE">reposition</EVENT></lex>
+			</VG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<lex pos="TO">To</lex>
+			<lex pos="RB">either</lex>
+			<VG>
+				<lex pos="VB"><EVENT eid="e65" class="OCCURRENCE">hold</EVENT></lex>
+			</VG>
+			<lex pos="IN">on</lex>
+			<lex pos="JJ">tight</lex>
+			<lex pos="CC">or</lex>
+			<VG>
+				<lex pos="VB"><EVENT eid="e66" class="OCCURRENCE">get</EVENT></lex>
+			</VG>
+			<lex pos="RP">out</lex>
+			<lex pos=",">,</lex>
+			<lex pos="RB">as</lex>
+			<lex pos="RB">much</lex>
+			<lex pos="IN">of</lex>
+			<NG>
+				<lex pos="NNP">Asia</lex>
+			</NG>
+			<VG>
+				<lex pos="VBZ"><EVENT eid="e67" class="OCCURRENCE">goes</EVENT></lex>
+			</VG>
+			<lex pos="IN">into</lex>
+			<NG>
+				<lex pos="NN"><EVENT eid="e368" class="OCCURRENCE">recession</EVENT></lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+		<s>
+			<NG>
+				<lex pos="NNP">Jim</lex>
+				<lex pos="NNP">Laurie</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="NNP">ABC</lex>
+				<lex pos="NNP">News</lex>
+			</NG>
+			<lex pos=",">,</lex>
+			<NG>
+				<lex pos="NNP">Hong</lex>
+				<lex pos="NNP">Kong</lex>
+			</NG>
+			<lex pos=".">.</lex>
+		</s>
+	</TEXT>
+
+	<MAKEINSTANCE eventID="e20" polarity="POS" pos="VERB" eiid="ei392" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e53" polarity="POS" pos="VERB" eiid="ei418" tense="PRESENT" aspect="PROGRESSIVE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e1" polarity="POS" pos="VERB" eiid="ei375" tense="PRESENT" aspect="PROGRESSIVE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e37" polarity="POS" pos="VERB" eiid="ei402" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e147" polarity="POS" pos="NOUN" eiid="ei382" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e67" polarity="POS" pos="VERB" eiid="ei429" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e16" polarity="POS" pos="VERB" eiid="ei388" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e42" polarity="POS" pos="VERB" eiid="ei408" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e26" polarity="POS" pos="NOUN" eiid="ei395" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e40" polarity="POS" pos="VERB" eiid="ei406" tense="FUTURE" aspect="PROGRESSIVE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e33" polarity="POS" pos="VERB" eiid="ei400" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e32" polarity="POS" pos="VERB" eiid="ei399" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e88" polarity="POS" pos="ADJECTIVE" eiid="ei403" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e17" polarity="POS" pos="VERB" eiid="ei389" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e48" polarity="POS" pos="VERB" eiid="ei414" tense="PRESENT" aspect="NONE" modality="can"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e18" polarity="POS" pos="NOUN" eiid="ei390" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e39" polarity="POS" pos="VERB" eiid="ei405" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e55" polarity="POS" pos="VERB" eiid="ei420" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e41" polarity="NEG" pos="VERB" eiid="ei407" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e9" polarity="POS" pos="VERB" eiid="ei380" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e28" polarity="POS" pos="VERB" eiid="ei397" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e44" polarity="NEG" pos="NOUN" eiid="ei410" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e4" polarity="NEG" pos="VERB" eiid="ei378" tense="PRESENT" aspect="PROGRESSIVE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e43" polarity="POS" pos="VERB" eiid="ei409" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e59" polarity="POS" pos="VERB" eiid="ei424" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e54" polarity="POS" pos="NOUN" eiid="ei419" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e52" polarity="POS" pos="NOUN" eiid="ei417" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e12" polarity="POS" pos="NOUN" eiid="ei386" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e11" polarity="POS" pos="VERB" eiid="ei384" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e34" polarity="NEG" pos="VERB" eiid="ei401" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e56" polarity="POS" pos="VERB" eiid="ei422" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e10" polarity="POS" pos="VERB" eiid="ei381" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e50" polarity="POS" pos="NOUN" eiid="ei415" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e7" polarity="POS" pos="VERB" eiid="ei379" tense="PRESENT" aspect="PERFECTIVE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e30" polarity="POS" pos="VERB" eiid="ei398" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e21" polarity="POS" pos="VERB" eiid="ei393" tense="FUTURE" aspect="NONE" modality="'d"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e91" polarity="POS" pos="ADJECTIVE" eiid="ei404" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e368" polarity="POS" pos="NOUN" eiid="ei430" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e66" polarity="POS" pos="VERB" eiid="ei428" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e65" polarity="POS" pos="NOUN" eiid="ei427" tense="INFINITIVE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e19" polarity="POS" pos="VERB" eiid="ei391" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e46" polarity="NEG" pos="VERB" eiid="ei412" tense="PRESENT" aspect="PROGRESSIVE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e3" polarity="POS" pos="NOUN" eiid="ei377" tense="NONE" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e64" polarity="POS" pos="VERB" eiid="ei426" tense="INFINITIVE" aspect="NONE" modality="delete"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e374" polarity="POS" pos="ADJECTIVE" eiid="ei436" tense="PRESENT" aspect="NONE"></MAKEINSTANCE>
+	<MAKEINSTANCE eventID="e376" polarity="POS" pos="ADJECTIVE" eiid="ei438" tense="PAST" aspect="NONE"></MAKEINSTANCE>
+	<TLINK lid="l1" relatedToEventInstance="ei378" relType="BEFORE" eventInstanceID="ei377"></TLINK>
+	<TLINK lid="l2" relatedToEventInstance="ei379" relType="INCLUDES" timeID="t85"></TLINK>
+	<TLINK lid="l3" relatedToTime="t85" relType="IS_INCLUDED" eventInstanceID="ei380"></TLINK>
+	<TLINK lid="l4" relatedToEventInstance="ei381" relType="INCLUDES" timeID="t85"></TLINK>
+	<TLINK lid="l5" relatedToTime="t0" relType="BEFORE" timeID="t86"></TLINK>
+	<TLINK lid="l6" relatedToTime="t0" relType="BEFORE" timeID="t87"></TLINK>
+	<TLINK lid="l7" relatedToTime="t0" relType="ENDED_BY" timeID="t85"></TLINK>
+	<TLINK lid="l8" relatedToTime="t85" relType="IS_INCLUDED" eventInstanceID="ei382"></TLINK>
+	<TLINK lid="l11" relatedToEventInstance="ei388" relType="SIMULTANEOUS" eventInstanceID="ei389"></TLINK>
+	<TLINK lid="l12" relatedToEventInstance="ei388" relType="AFTER" eventInstanceID="ei391"></TLINK>
+	<TLINK lid="l14" relatedToEventInstance="ei397" relType="INCLUDES" eventInstanceID="ei395"></TLINK>
+	<TLINK lid="l15" relatedToTime="t0" relType="ENDED_BY" eventInstanceID="ei398"></TLINK>
+	<TLINK lid="l16" relatedToTime="t0" relType="ENDED_BY" eventInstanceID="ei399"></TLINK>
+	<TLINK lid="l17" relatedToTime="t0" relType="DURING" eventInstanceID="ei400"></TLINK>
+	<TLINK lid="l18" relatedToTime="t0" relType="DURING" eventInstanceID="ei401"></TLINK>
+	<TLINK lid="l19" relatedToTime="t0" relType="DURING" eventInstanceID="ei402"></TLINK>
+	<TLINK lid="l20" relatedToTime="t89" relType="IS_INCLUDED" eventInstanceID="ei403"></TLINK>
+	<TLINK lid="l21" relatedToTime="t90" relType="DURING" eventInstanceID="ei404"></TLINK>
+	<TLINK lid="l22" relatedToTime="t0" relType="BEFORE" eventInstanceID="ei405"></TLINK>
+	<TLINK lid="l23" relatedToTime="t0" relType="DURING" eventInstanceID="ei407"></TLINK>
+	<TLINK lid="l24" relatedToEventInstance="ei408" relType="INCLUDES" timeID="t98"></TLINK>
+	<TLINK lid="l25" relatedToEventInstance="ei409" relType="INCLUDES" timeID="t98"></TLINK>
+	<TLINK lid="l27" relatedToEventInstance="ei412" relType="BEFORE" eventInstanceID="ei410"></TLINK>
+	<TLINK lid="l28" relatedToEventInstance="ei415" relType="SIMULTANEOUS" eventInstanceID="ei414"></TLINK>
+	<TLINK lid="l29" relatedToTime="t0" relType="DURING" eventInstanceID="ei414"></TLINK>
+	<TLINK lid="l30" relatedToEventInstance="ei417" relType="INCLUDES" timeID="t99"></TLINK>
+	<TLINK lid="l31" relatedToTime="t99" relType="ENDS" eventInstanceID="ei418"></TLINK>
+	<TLINK lid="l32" relatedToEventInstance="ei419" relType="BEFORE" eventInstanceID="ei418"></TLINK>
+	<TLINK lid="l36" relatedToTime="t0" relType="AFTER" eventInstanceID="ei427"></TLINK>
+	<TLINK lid="l37" relatedToTime="t0" relType="AFTER" eventInstanceID="ei428"></TLINK>
+	<TLINK lid="l38" relatedToEventInstance="ei430" relType="BEGINS" eventInstanceID="ei429"></TLINK>
+	<TLINK lid="l39" relatedToTime="t0" relType="DURING" eventInstanceID="ei429"></TLINK>
+	<SLINK lid="l49" relType="MODAL" eventInstanceID="ei420" subordinatedEventInstance="ei436"></SLINK>
+	<SLINK lid="l48" relType="MODAL" eventInstanceID="ei384" subordinatedEventInstance="ei438"></SLINK>
+	<SLINK lid="l47" relType="FACTIVE" eventInstanceID="ei378" subordinatedEventInstance="ei377"></SLINK>
+	<SLINK lid="l40" relType="MODAL" eventInstanceID="ei389" subordinatedEventInstance="ei390"></SLINK>
+	<SLINK lid="l41" relType="EVIDENTIAL" eventInstanceID="ei392" subordinatedEventInstance="ei393"></SLINK>
+	<SLINK lid="l42" relType="MODAL" eventInstanceID="ei402" subordinatedEventInstance="ei404"></SLINK>
+	<SLINK lid="l43" relType="MODAL" eventInstanceID="ei405" subordinatedEventInstance="ei406"></SLINK>
+	<SLINK lid="l44" relType="MODAL" eventInstanceID="ei418" subordinatedEventInstance="ei419"></SLINK>
+	<SLINK lid="l45" relType="MODAL" eventInstanceID="ei422" subordinatedEventInstance="ei424"></SLINK>
+	<TLINK lid="l51" relatedToTime="t0" relType="IS_INCLUDED" eventInstanceID="ei375"></TLINK>
+	<TLINK lid="l55" relatedToEventInstance="ei391" relType="SIMULTANEOUS" eventInstanceID="ei392"></TLINK>
+	<TLINK lid="l59" relatedToTime="t83" relType="DURING" eventInstanceID="ei420"></TLINK>
+	<TLINK lid="l60" relatedToTime="t83" relType="DURING" eventInstanceID="ei436"></TLINK>
+	<TLINK lid="l61" relatedToEventInstance="ei420" relType="SIMULTANEOUS" eventInstanceID="ei422"></TLINK>
+
+</TimeML>
